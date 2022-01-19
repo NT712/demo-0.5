@@ -1,0 +1,29 @@
+{
+	"songs": [
+		[
+			"presence",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "shit",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"storyName": "",
+	"weekName": "weekhorror",
+	"freeplayColor": [
+		166,
+		166,
+		166
+	],
+	"hideStoryMode": false,
+	"startUnlocked": true
+}
