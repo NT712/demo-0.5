@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				504,
+				180
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sans Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				469,
+				184
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sans Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				517,
+				109
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sans Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				275
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sans Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				530,
+				168
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sans Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				512,
+				170
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "sans Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-47,
+				24
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "sans Up",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				16
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "sans Left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-31,
+				-29
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "sans Down",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-23
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "sans Right",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans",
+	"position": [
+		430,
+		240
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		140
+	],
+	"camera_position": [
+		-490,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
