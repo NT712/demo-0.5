@@ -1,0 +1,4 @@
+drains HP
+
+Value 1: Draining value
+Value 2: Draining limits
